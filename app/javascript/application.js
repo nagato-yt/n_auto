@@ -6,3 +6,6 @@
 import "@hotwired/turbo-rails"
 import "controllers"
 import "@fortawesome/fontawesome-free"
+
+// 追加分
+// import './custom/';
